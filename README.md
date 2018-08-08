@@ -14,4 +14,4 @@ A curated list of kafka resources
 ## Projects
 
 ## Miscellaneous
- - [Kafka Streams Samples on Spring Cloud Streams](https://github.com/spring-cloud/spring-cloud-stream-samples/tree/master/kafka-streams-samples)
+ - [Spring Cloud Stream Kafka Streams Examples](https://github.com/spring-cloud/spring-cloud-stream-samples/tree/master/kafka-streams-samples)
